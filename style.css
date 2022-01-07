@@ -1,0 +1,30 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 46px;
+    color: lightseagreen;
+}
+
+.recipe-list{
+    font-size: 23px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 60px;
+    color:lightseagreen;
+}
+
+.home-image, .site-image{
+    display: block;
+    margin: auto;
+    width: 450px;
+    height: auto;
+}
+
+.site-image {
+    width: 350px;
+
+}
